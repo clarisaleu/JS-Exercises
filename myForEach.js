@@ -1,3 +1,6 @@
+//Building my own for each
+
+
 function myForEach(arr, func){
 	//loop through array
 	for(var i = 0; i <arr.length; i++){
