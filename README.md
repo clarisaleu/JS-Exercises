@@ -1,2 +1,2 @@
 # JS-Exercises
-Small exercises with JS
+Practice with JS
